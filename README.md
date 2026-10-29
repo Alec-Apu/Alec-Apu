@@ -1,35 +1,16 @@
-# Hi, I'm Alec 👋
+## Hi there 👋
 
-<p>
-  <a href="https://github.com/Alec-Apu"><img src="https://img.shields.io/badge/GitHub-Alec--Apu-181717?style=flat-square&logo=github" /></a>
-  <a href="https://apupu.top"><img src="https://img.shields.io/badge/Website-apupu.top-2f80ed?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-</p>
+<!--
+**Alec-Apu/Alec-Apu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Minecraft launcher developer and independent tinkerer from China.
+Here are some ideas to get you started:
 
-I enjoy building practical tools, improving user interfaces, and maintaining projects that are useful to the Minecraft community.
-
-## Featured project
-
-### [PCL Ap](https://github.com/Alec-Apu/PCL_Alec)
-
-A personal second development of PCL-CE, with a customized **PCL Ap** brand, refreshed UI, third-party authentication support, and LAN update delivery.
-
-[![Latest release](https://img.shields.io/github/v/release/Alec-Apu/PCL_Alec?include_prereleases&style=flat-square&label=release)](https://github.com/Alec-Apu/PCL_Alec/releases)
-[![Stars](https://img.shields.io/github/stars/Alec-Apu/PCL_Alec?style=flat-square)](https://github.com/Alec-Apu/PCL_Alec)
-
-## What I work with
-
-- C# / .NET / WPF
-- Minecraft Java tooling
-- Python
-- UI design and desktop application development
-- Linux server deployment and LAN services
-
-## Contact
-
-- Website: [apupu.top](https://apupu.top)
-- Email: [alec@alecapu.top](mailto:alec@alecapu.top)
-- QQ: `3442157568`
-
-Thanks for visiting.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
